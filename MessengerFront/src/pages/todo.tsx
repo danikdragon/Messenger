@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { Todo } from '../dto/todo.dto';
+import type { Todo } from '../dto/todo.dto';
 
 
 function TodoPage() {
